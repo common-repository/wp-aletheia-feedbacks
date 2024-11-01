@@ -1,0 +1,236 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-aletheia-feedbacks\n"
+"POT-Creation-Date: 2011-11-09 20:58:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-11-09 18:03-0300\n"
+"Last-Translator: Daniel Dvorkin <daniel@mzaweb.com>\n"
+"Language-Team: \n"
+
+#: framework/lib/MZAFormBuilderForSettings.php:34
+msgid "Save Changes"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:33
+msgid "Feedback information"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:39
+msgid "Feedback URL"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:45
+msgid "Feedback Page Name"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:51
+msgid "Site"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:61
+msgid "Title"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:64
+msgid " Site "
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:67
+msgid "Page"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:68
+msgid "User"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:69
+#: framework/MZAFeedback/MZAFeedback.php:109
+msgid "Category"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:70
+msgid "Date"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:76
+msgid "Feedbacks"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:77
+#: framework/MZAFeedback/MZAFeedback.php:87
+#: framework/MZAFeedback/MZAFeedback.php:251
+msgid "Feedback"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:80
+msgid "Edit Feedback"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:81
+msgid "New Feedback"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:82
+msgid "Ver Feedback"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:83
+msgid "Search Feedback"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:84
+#: framework/MZAFeedback/MZAFeedback.php:85
+msgid "Feedbacks not found"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:86
+msgid "Parent Feedback:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:88
+msgid "All Feedbacks"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:108
+#: framework/MZAFeedback/MZAFeedback.php:118
+msgid "Categories"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:110
+msgid "Search Categories"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:111
+msgid "All Categories"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:112
+msgid "Parent Category"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:113
+msgid "Parent Category:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:114
+msgid "Edit Category"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:115
+msgid "Update Category"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:116
+msgid "Add New Category"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:117
+msgid "New Category"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:129
+msgid "General"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:132
+msgid "Show feedback form only to users within this user role:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:139
+msgid "Layout and design"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:142
+msgid "Your company logo"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:143
+msgid "Max. Size 250x45px. URL starting with http://"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:147
+msgid "Feedback form placement"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:151
+msgid "Top Right"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:152
+msgid "Top Left"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:153
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:154
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:155
+msgid "Admin Bar - ( Not working yet ;_; ... but you can count on it for the next release )"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:161
+msgid "Remote WordPress"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:162
+msgid "Setting this up will post each new feedback to a remote WordPress so you can centralize all your client's feedback. That WordPress needs to have XML-RPC enabled (in Settings->Writing) and this same plugin activated."
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:165
+msgid "Post local feedbacks to remote WordPress:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:172
+msgid "Remote WordPress URL"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:174
+msgid "URL starting with http:// and without trailing slash"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:177
+msgid "Remote WordPress Username"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:181
+msgid "Remote WordPress Password"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:189
+msgid "Feedback settings"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:190
+msgid "Settings"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:232
+msgid "Feedback category:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:260
+msgid "Feedback title:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:263
+msgid "Feedback content:"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:268
+#: framework/MZAFeedback/MZAFeedback.php:324
+msgid "Submit Feedback"
+msgstr ""
+
+#: framework/MZAFeedback/MZAFeedback.php:310
+msgid "Sending..."
+msgstr ""
+

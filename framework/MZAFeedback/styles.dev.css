@@ -1,0 +1,178 @@
+#MZAFeedbackWindow{
+    height:350px;
+    width:296px;
+}
+
+#wp-admin-bar-feedbacks ul li:hover{
+    background: none !important;
+
+}
+
+div#MZAFeedbackWindow{
+    background-color:#222222;
+    opacity: 0.9;
+    border:2px solid #AAAAAA;
+    border-top: 0 !important;
+    z-index:999999;
+}
+
+#wp-admin-bar-feedbacks {
+
+    line-height: 13px !important;
+    font: normal 13px/13px Arial,Helvetica,sans-serif;
+}
+
+#MZAFeedbackWindow.mzatop, #MZAFeedbackWindow.adminbar{
+    top:0;
+    position:fixed;
+    margin-top: -355px;
+}
+
+
+#MZAFeedbackWindow.mzabottom{
+    bottom:0;
+    position:fixed;
+    margin-bottom: -355px;
+}
+
+#MZAFeedbackWindow.mzaright{
+    right:0;
+}
+
+#MZAFeedbackWindow.mzaleft{
+    left:0;
+}
+
+#MZAFeedbackWindow #MZAFeedbackButton{
+    cursor:pointer;
+    position:absolute;
+    width:167px;
+    height:42px;
+}
+
+#MZAFeedbackWindow #MZAFeedbackButton span{
+    color: #FEFEFE;
+    font-size: 17px;
+    font-family: "Helvetica Neue", "Helvetica", Arial, serif;
+    line-height: 20px;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+#MZAFeedbackWindow.mzaright #MZAFeedbackButton span{
+    margin-left: 35px;
+}
+
+#MZAFeedbackWindow.mzaleft #MZAFeedbackButton span{
+    margin-left: 55px;
+}
+
+#MZAFeedbackWindow.mzatop #MZAFeedbackButton span{
+    margin-top: 4px;
+}
+
+#MZAFeedbackWindow.mzabottom #MZAFeedbackButton span{
+    margin-top: 9px;
+}
+
+#MZAFeedbackWindow.mzabottom #MZAFeedbackButton{
+    top:-42px;
+}
+
+#MZAFeedbackWindow.mzatop #MZAFeedbackButton{
+    bottom:-42px;
+}
+
+#MZAFeedbackWindow.mzaleft #MZAFeedbackButton{
+    left:-2px;
+}
+
+#MZAFeedbackWindow.mzaright #MZAFeedbackButton{
+    right:-2px;
+}
+
+#MZAFeedbackWindow.mzatop.mzaright #MZAFeedbackButton{
+    background: url(top_right.png) transparent;
+}
+
+#MZAFeedbackWindow.mzatop.mzaleft #MZAFeedbackButton{
+    background: url(top_left.png) transparent;
+}
+
+#MZAFeedbackWindow.mzabottom.mzaleft #MZAFeedbackButton{
+    background: url(bottom_left.png) transparent;
+}
+
+#MZAFeedbackWindow.mzabottom.mzaright #MZAFeedbackButton{
+    background: url(bottom_right.png) transparent;
+}
+
+#MZAFeedbackWindow #MZAFeedbackButton span{
+    display: block;
+    padding-top: 5px;
+}
+
+#MZAFeedbackWindow fieldset{
+    display: block;
+    padding: 10px;
+}
+
+div#MZAFeedbackWindow label{
+   color:#ffffff;
+   clear: both;
+   display: block;
+}
+span#MZAFeedbackWindow label{
+   color:#333;
+   clear: both;
+   display: block;
+   text-shadow: none;
+}
+
+
+
+#MZAFeedbackWindow input, #MZAFeedbackWindow textarea, #MZAFeedbackWindow select{
+   display: block;
+   width: 275px;
+   margin-bottom: 10px;
+   padding: 0;
+   background: #fff;
+   border: 1px solid #CDCDCD;
+   border-radius: 2px 2px 2px 2px;
+   font-family: "Helvetica Neue", "Helvetica", Arial, serif;
+   font-size: 15px;
+   height: 25px;
+   text-shadow: none;
+   color:#333;
+}
+
+#MZAFeedbackWindow #MZAFFSubmit{
+    background-color: #ff5c00;
+    display: inline-block;
+    padding: 5px 10px 6px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-box-shadow: 0 1px 3px #999;
+    -webkit-box-shadow: 0 1px 3px #999;
+
+    cursor: pointer;
+}
+
+#MZAFeedbackWindow #MZAFFSubmit:hover{
+    background-color: #D45500;
+}
+
+#MZAFeedbackWindow textarea{
+    height: 90px;
+}
+
+
+#MZAFeedbackWindow #MZAFLogo{
+    text-align: center;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
